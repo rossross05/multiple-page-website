@@ -3,3 +3,28 @@ body {
   display: block;
   margin: 8px;
 }
+
+h1,
+h2,
+p {
+  text-align: center;
+}
+a {
+  color: green;
+  display: inline-block;
+  flex: 1;
+  margin: 8px;
+}
+.container {
+  text-align: center;
+}
+.photo {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+  flex: 1;
+}
+.mail {
+  color: blue;
+}
